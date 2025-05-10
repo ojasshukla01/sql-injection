@@ -1,0 +1,5 @@
+C:\Users\ojass\OneDrive\Desktop\SQLInjectionProject\obj\Debug\net6.0\SQLInjectionProject.csproj.AssemblyReference.cache
+C:\Users\ojass\OneDrive\Desktop\SQLInjectionProject\obj\Debug\net6.0\SQLInjectionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ojass\OneDrive\Desktop\SQLInjectionProject\obj\Debug\net6.0\SQLInjectionProject.AssemblyInfoInputs.cache
+C:\Users\ojass\OneDrive\Desktop\SQLInjectionProject\obj\Debug\net6.0\SQLInjectionProject.AssemblyInfo.cs
+C:\Users\ojass\OneDrive\Desktop\SQLInjectionProject\obj\Debug\net6.0\SQLInjectionProject.csproj.CoreCompileInputs.cache
